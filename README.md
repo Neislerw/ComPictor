@@ -1,6 +1,6 @@
-# PicPick
+# ComPictor
 
-PicPick is a Python application that helps you to compare and organize your photo collection efficiently.  If you regularly take photos, you will know that you end up with anywhere from 2 to 50 attempts at getting the "right" shot.  This is a good habit to be in from a photography stand point, but not great for keeping your photo gallery clean.  With PicPick, you can move all of the semi-duplicates in to a folder, then review them in a "Battle-Royale style" head-to-head matchup to see the last photo standing.  At the end you are left with the Best Photo, and a folder called delete, full of all the un-chosen photos, to make cleanup easier.
+ComPictor is a Python application that helps you to compare and organize your photo collection efficiently.  If you regularly take photos, you will know that you end up with anywhere from 2 to 50 attempts at getting the "right" shot.  This is a good habit to be in from a photography stand point, but not great for keeping your photo gallery clean.  With ComPictor, you can move all of the semi-duplicates in to a folder, then review them in a "Battle-Royale style" head-to-head matchup to see the last photo standing.  At the end you are left with the Best Photo, and a folder called delete, full of all the un-chosen photos, to make cleanup easier.
 
 ## Requirements
 
